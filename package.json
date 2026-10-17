@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "name": "repo-pilot",
-  "displayName": "RepoPilot",
+  "RepoPilot": "GitHub Quick Push",
   "description": "Create GitHub repositories and push code from VS Code",
   "version": "0.0.1",
   "icon": "icon.png",
