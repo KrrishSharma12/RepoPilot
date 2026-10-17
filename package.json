@@ -4,7 +4,8 @@
   "displayName": "RepoPilot",
   "description": "Create GitHub repositories and push code from VS Code",
   "version": "0.0.1",
-   "repository": {
+  "icon": "icon.png",
+  "repository": {
     "type": "git",
     "url": "https://github.com/KrrishSharma12/RepoPilot.git"
   },
