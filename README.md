@@ -83,4 +83,6 @@ npx @vscode/vsce package
 
 ## License
 
-Add a `LICENSE` file before distributing this extension publicly.
+RepoPilot is licensed under the [MIT License](LICENSE).
+
+You are free to use, copy, modify, and distribute this software, subject to the terms and conditions of the MIT License.
